@@ -1,10 +1,7 @@
 # Uber Fares Dataset Analysis – Power BI Project
 ## Project Information
+[WEB DESIGN.pptx](https://github.com/user-attachments/files/21415577/WEB.DESIGN.pptx)
 
-- **Course**: Introduction to Big Data Analytics (INSY 8413)  
-- **Instructor**: Eric Maniraguha  
-- **Student Group**: A / B / E  
-- **Submission Date**: 25 July 2025  
 
 ---
 
