@@ -68,8 +68,12 @@ Imported the cleaned data into Power BI and created:
 ---
 
 ## Submission
-[uber_cleaned_for_powerbi.csv](https://github.com/user-attachments/files/21414998/uber_cleaned_for_powerbi.csv)
-[uber.csv](https://github.com/user-attachments/files/21414990/uber.csv)<img width="1427" height="769" alt="picture jpg" src="https://github.com/user-attachments/assets/428a19db-8153-4255-a701-c68ca61cc30f" />
+<img width="1325" height="705" alt="image5 jpg" src="https://github.com/user-attachments/assets/c5de8be0-3c90-4bec-b694-c6a5a8f17552" />
+<img width="1344" height="709" alt="image4 jpg" src="https://github.com/user-attachments/assets/4b113418-8c56-4a36-a5e5-4288fada9100" />
+<img width="1349" height="685" alt="image6 jpg" src="https://github.com/user-attachments/assets/a6827f2b-0abf-4ffb-b08f-2459c2a8b5e4" />
+<img width="1355" height="713" alt="image2 jpg" src="https://github.com/user-attachments/assets/55c6d049-76da-4c8b-aa44-821c5cae18ac" />
+<img width="1342" height="716" alt="image1 jpg" src="https://github.com/user-attachments/assets/f58ff691-a3c7-45ab-937c-1a53bcf8dd57" />
+
 
 
 - All files are uploaded to this GitHub repository  
